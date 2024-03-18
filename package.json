@@ -1,0 +1,29 @@
+{
+  "name": "spleef-mod",
+  "version": "1.0.0",
+  "description": "A Node.js module providing various cryptographic utilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spleef32gmail/spleef-mod"
+  },
+  "dependencies": {
+	  "morozz-string": "1.0.0",
+"anthonyjones-mode": "1.0.0",
+"carolgonzalez-sw": "1.0.0",
+"sharondavis": "1.0.0",
+"md-zheminivan": "1.0.0",
+"spleef-mod": "1.0.0",
+"christopherlee-bit": "1.0.0",
+    "crypto": "^1.0.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spleef32gmail/spleef-mod/issues"
+  },
+  "homepage": "https://github.com/spleef32gmail/spleef-mod#readme"
+}
